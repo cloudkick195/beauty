@@ -1,0 +1,722 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: opalbeauty\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-02-21 19:13+0000\n"
+"PO-Revision-Date: 2022-02-21 19:13+0000\n"
+"Last-Translator: Admin\n"
+"Language-Team: Vietnamese\n"
+"Language: vi\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.8; wp-5.9\n"
+"X-Domain: opalbeauty"
+
+#: acf.php:4
+msgid "Man"
+msgstr ""
+
+#: acf.php:5
+msgid "Women"
+msgstr ""
+
+#: acf.php:6 acf.php:17 acf.php:50
+msgid "Other"
+msgstr ""
+
+#: acf.php:12 acf.php:47
+msgid "Chin"
+msgstr ""
+
+#: acf.php:13
+msgid "Chest"
+msgstr ""
+
+#: acf.php:14
+msgid "Body"
+msgstr ""
+
+#: acf.php:15 acf.php:44
+msgid "Eyes"
+msgstr ""
+
+#: acf.php:16 acf.php:45
+msgid "Nose"
+msgstr ""
+
+#: acf.php:23 acf.php:30 acf.php:43 acf.php:54 archive-review.php:35
+msgid "All"
+msgstr ""
+
+#: acf.php:24 page-home.php:15
+msgid "Doctor"
+msgstr ""
+
+#: acf.php:25
+msgid "Plastic surgery"
+msgstr ""
+
+#: acf.php:26
+msgid "Skin care"
+msgstr ""
+
+#: acf.php:46
+msgid "Mouse"
+msgstr ""
+
+#: acf.php:48
+msgid "Fat loss"
+msgstr ""
+
+#: acf.php:49
+msgid "Skin"
+msgstr ""
+
+#: archive-event.php:10 archive-question.php:8 archive-review.php:10
+msgid "Search event..."
+msgstr ""
+
+#: archive-event.php:29 taxonomy-type_beauty.php:11
+msgid "Location"
+msgstr ""
+
+#: archive-event.php:49
+msgid "Date"
+msgstr ""
+
+#: archive-event.php:73 page-event.php:26 single-event.php:56
+#: pages-other-author/event.php:54
+msgid "Today "
+msgstr ""
+
+#: archive-event.php:119 page-event.php:72 single-event.php:89
+#: pages-other-author/event.php:100
+msgid "Registered"
+msgstr ""
+
+#: archive-event.php:122 page-event.php:75 single-event.php:70
+#: pages-other-author/event.php:103
+msgid "Event by"
+msgstr ""
+
+#: archive-review.php:100 page-create-review.php:53 page-edit-review.php:82
+#: pages-author/review.php:83 pages-other-author/review.php:98
+msgid "Before"
+msgstr ""
+
+#: archive-review.php:104 page-create-review.php:93 page-edit-review.php:123
+#: pages-author/review.php:87 pages-other-author/review.php:102
+msgid "After"
+msgstr ""
+
+#: archive-review.php:134 pages-author/review.php:117
+#: pages-other-author/review.php:132
+msgid "Likes"
+msgstr ""
+
+#: functions.php:14
+msgid "love your question."
+msgstr ""
+
+#: functions.php:15
+msgid "answered your question."
+msgstr ""
+
+#: functions.php:16
+msgid "love your review."
+msgstr ""
+
+#: functions.php:17
+msgid "commented your review."
+msgstr ""
+
+#: functions.php:18
+msgid "registered your event."
+msgstr ""
+
+#: functions.php:19
+msgid "added a new event."
+msgstr ""
+
+#: functions.php:20
+msgid "posted a new review."
+msgstr ""
+
+#: functions.php:21
+msgid "posted a new question."
+msgstr ""
+
+#: functions.php:22
+msgid "Update new spa.Let's explore it."
+msgstr ""
+
+#: functions.php:23
+msgid "The registered event has been deleted."
+msgstr ""
+
+#: functions.php:24
+msgid "Update the registered event. Check's it."
+msgstr ""
+
+#: functions.php:25
+msgid "Refuse your request. Check your credentials."
+msgstr ""
+
+#: functions.php:26
+msgid "Congratulation. Check your credentials."
+msgstr ""
+
+#: functions.php:195
+msgid "‹"
+msgstr ""
+
+#: functions.php:196
+msgid "›"
+msgstr ""
+
+#: functions.php:483 functions.php:516 functions.php:744 functions.php:852
+#: functions.php:940 functions.php:1000 functions.php:1154 functions.php:1180
+msgid "No permission to send"
+msgstr ""
+
+#: functions.php:610
+msgid "More"
+msgstr ""
+
+#: functions.php:748 functions.php:856 functions.php:950 functions.php:1010
+#: functions.php:1184
+msgid "Not enough input fields"
+msgstr ""
+
+#: functions.php:820
+msgid "Images Missing"
+msgstr ""
+
+#: functions.php:1337
+msgid "Wrong password re-entered"
+msgstr ""
+
+#: functions.php:1341 functions.php:1444
+msgid "Create user success"
+msgstr ""
+
+#: functions.php:1347 functions.php:1461
+msgid "Email already exists"
+msgstr ""
+
+#: functions.php:1448 functions.php:1578
+msgid "Please re-enter other registration information"
+msgstr ""
+
+#: functions.php:1558
+msgid "Update user success"
+msgstr ""
+
+#: functions.php:1572
+msgid "Password error, please re-enter password"
+msgstr ""
+
+#: functions.php:1591
+msgid "Email does not exist"
+msgstr ""
+
+#: functions.php:1700 functions.php:1753
+msgid "Unable to upload please try again"
+msgstr ""
+
+#: functions.php:2106 page-account.php:120 page-register2.php:114
+msgid "years"
+msgstr ""
+
+#: functions.php:2106
+msgid "year"
+msgstr ""
+
+#: functions.php:2109
+msgid "months"
+msgstr ""
+
+#: functions.php:2112
+msgid "days"
+msgstr ""
+
+#: functions.php:2115
+msgid "hours"
+msgstr ""
+
+#: functions.php:2118
+msgid "minutes"
+msgstr ""
+
+#: functions.php:2121
+msgid "seconds"
+msgstr ""
+
+#: functions.php:2125
+msgid "Now"
+msgstr ""
+
+#: functions.php:2452 functions.php:2476
+msgid "Can't login because of missing parameters"
+msgstr ""
+
+#: functions.php:2514
+msgid "Email is required"
+msgstr ""
+
+#. Name of the template
+msgid "Account"
+msgstr ""
+
+#: page-account.php:4 page-home.php:19
+msgid "Edit profile"
+msgstr ""
+
+#: page-account.php:49 page-register2.php:40
+msgid "Full name"
+msgstr ""
+
+#: page-account.php:59 page-register2.php:50
+msgid "Username"
+msgstr ""
+
+#: page-account.php:71 page-login.php:10 page-register.php:13
+#: page-register2.php:67
+msgid "Email"
+msgstr ""
+
+#: page-account.php:79 page-register2.php:75 pages-other-author/profile.php:48
+msgid "Gender"
+msgstr ""
+
+#: page-account.php:97 page-register2.php:91 pages-other-author/profile.php:56
+msgid "Age"
+msgstr ""
+
+#: page-account.php:107 page-register2.php:101
+#: pages-other-author/profile.php:65
+msgid "Study at"
+msgstr ""
+
+#: page-account.php:116 page-register2.php:110
+#: pages-other-author/profile.php:73
+msgid "Experience"
+msgstr ""
+
+#: page-account.php:128 page-register2.php:122
+#: pages-other-author/profile.php:81
+msgid "Surgeries"
+msgstr ""
+
+#: page-account.php:133 page-register2.php:127
+msgid "shift"
+msgstr ""
+
+#: page-account.php:141 page-register2.php:135
+#: pages-other-author/profile.php:89
+msgid "Specialist"
+msgstr ""
+
+#: page-account.php:165 page-register2.php:158
+#: pages-other-author/profile.php:102
+msgid "Work at"
+msgstr ""
+
+#: page-account.php:173 page-account.php:251 page-account.php:367
+msgid "Change password"
+msgstr ""
+
+#: page-account.php:176 page-account.php:254 page-login.php:16
+#: page-register.php:19
+msgid "Password"
+msgstr ""
+
+#: page-account.php:222 page-register2.php:187
+msgid "Update certificated"
+msgstr ""
+
+#: page-account.php:229 page-register2.php:194
+msgid "Your request is being moderated."
+msgstr ""
+
+#: page-account.php:230 page-register2.php:195
+msgid "Continue exploring"
+msgstr ""
+
+#: page-account.php:237 page-register2.php:202
+#: pages-other-author/profile.php:136
+msgid "Interested in"
+msgstr ""
+
+#: page-account.php:265 page-edit-question.php:50
+msgid "Save"
+msgstr ""
+
+#: page-account.php:267
+msgid "Logout"
+msgstr ""
+
+#: page-account.php:365
+msgid "Close change password"
+msgstr ""
+
+#: page-create-event.php:13
+msgid "Service & ticket"
+msgstr ""
+
+#: page-create-event.php:20
+msgid "Servicet"
+msgstr ""
+
+#. Name of the template
+msgid "Create Question"
+msgstr ""
+
+#: page-create-question.php:18 page-edit-question.php:56
+msgid "Title"
+msgstr ""
+
+#: page-create-question.php:27 page-edit-question.php:65
+msgid "Question detail"
+msgstr ""
+
+#: page-create-question.php:36 page-edit-question.php:74
+msgid "Category"
+msgstr ""
+
+#: page-create-question.php:96 page-create-review.php:52
+#: page-create-review.php:92 page-edit-question.php:144
+#: page-edit-question.php:162 page-edit-review.php:81 page-edit-review.php:122
+msgid "Add photo"
+msgstr ""
+
+#. Name of the template
+msgid "Create Review"
+msgstr ""
+
+#: page-create-review.php:4 page-edit-review.php:3
+msgid "Post Review"
+msgstr ""
+
+#: page-create-review.php:10 page-edit-review.php:38
+msgid "Share"
+msgstr ""
+
+#: page-create-review.php:105 page-edit-review.php:135
+msgid "Share your experience..."
+msgstr ""
+
+#: page-create-review.php:242 page-edit-review.php:326
+msgid "Post review"
+msgstr ""
+
+#: page-create-review.php:248 page-edit-review.php:332
+msgid "Choose category"
+msgstr ""
+
+#. Name of the template
+msgid "Edit Question"
+msgstr ""
+
+#: page-edit-question.php:333
+msgid "Please enter Images"
+msgstr ""
+
+#. Name of the template
+msgid "Edit Review"
+msgstr ""
+
+#. Name of the template
+msgid "My Events"
+msgstr ""
+
+#: page-event.php:9
+msgid "My events "
+msgstr ""
+
+#. Name of the template
+msgid "Home"
+msgstr ""
+
+#: page-home.php:40
+msgid "My event"
+msgstr ""
+
+#: page-home.php:41
+msgid "My post"
+msgstr ""
+
+#: page-home.php:46 page-home.php:175
+msgid "Search spa & clinic..."
+msgstr ""
+
+#: page-home.php:47
+msgid "Skin spa"
+msgstr ""
+
+#: page-home.php:47 page-home.php:90 page-home.php:135 single-beauty.php:81
+#: single-beauty.php:88 single-beauty.php:95 single-beauty.php:106
+msgid "See all"
+msgstr ""
+
+#: page-home.php:82 taxonomy-type_beauty.php:62
+msgid "Show more"
+msgstr ""
+
+#: page-home.php:90
+msgid "Plastic surgery clinic"
+msgstr ""
+
+#: page-home.php:135
+msgid "News"
+msgstr ""
+
+#. Name of the template
+#: page-login.php:23
+msgid "Login"
+msgstr ""
+
+#: page-login.php:22
+msgid "Forgot password"
+msgstr ""
+
+#: page-login.php:25
+msgid "Don't have an account."
+msgstr ""
+
+#: page-login.php:25 page-register.php:34 page-welcome.php:11
+msgid "Sign up"
+msgstr ""
+
+#: page-login.php:28
+msgid "Or log in with social media"
+msgstr ""
+
+#: page-login.php:37
+msgid "Are you doctor? Sign up as doctor"
+msgstr ""
+
+#: page-login.php:37
+msgid "here"
+msgstr ""
+
+#. Name of the template
+#: page-notification.php:3
+msgid "Notification"
+msgstr ""
+
+#. Name of the template
+msgid "Sign Up"
+msgstr ""
+
+#: page-register.php:28
+msgid "Comfirm Password"
+msgstr ""
+
+#. Name of the template
+msgid "Register Step 2"
+msgstr ""
+
+#: page-register2.php:6
+msgid "Enter your credentials to continue"
+msgstr ""
+
+#: page-register2.php:215
+msgid "Get’s started"
+msgstr ""
+
+#. Name of the template
+msgid "Setting"
+msgstr ""
+
+#: page-setting.php:5 page-setting.php:34 single-event.php:37
+#: single-question.php:43 pages-author/review.php:62
+#: pages-other-author/review.php:77
+msgid "Yes"
+msgstr ""
+
+#: page-setting.php:7 page-setting.php:40
+msgid "No"
+msgstr ""
+
+#: page-setting.php:18
+msgid "Notification setting"
+msgstr ""
+
+#: page-setting.php:24
+msgid "Language"
+msgstr ""
+
+#. Name of the template
+msgid "Welcome"
+msgstr ""
+
+#: page-welcome.php:8
+msgid "Welcome to"
+msgstr ""
+
+#: page-welcome.php:9
+msgid "Learn and share your beauty experience!"
+msgstr ""
+
+#: page-welcome.php:10
+msgid "Log in"
+msgstr ""
+
+#: page-welcome.php:17
+msgid "Find the beauty within you"
+msgstr ""
+
+#: single-beauty.php:35
+msgid "SERVICES"
+msgstr ""
+
+#: single-beauty.php:39
+msgid ")?>"
+msgstr ""
+
+#: single-beauty.php:42
+msgid "DOCTOR'S TEAM"
+msgstr ""
+
+#: single-beauty.php:84
+msgid "Gallery"
+msgstr ""
+
+#: single-beauty.php:91
+msgid "Branch"
+msgstr ""
+
+#: single-beauty.php:98 pages-author/question.php:12 pages-author/review.php:13
+#: pages-other-author/event.php:32 pages-other-author/profile.php:31
+#: pages-other-author/question.php:28 pages-other-author/review.php:28
+msgid "Review"
+msgstr ""
+
+#: single-beauty.php:102
+msgid "Add a review"
+msgstr ""
+
+#: single-beauty.php:135 single-event.php:34 single-question.php:40
+#: pages-author/review.php:58 pages-other-author/review.php:73
+msgid "Cancel"
+msgstr ""
+
+#: single-event.php:27
+msgid "Register"
+msgstr ""
+
+#: single-event.php:29
+msgid "Unregister"
+msgstr ""
+
+#: single-event.php:32
+msgid "Are you sure to unregister?"
+msgstr ""
+
+#: single-event.php:78
+msgid "Price"
+msgstr ""
+
+#: single-event.php:79
+msgid "Service"
+msgstr ""
+
+#: single-event.php:100
+msgid "Register event"
+msgstr ""
+
+#: single-event.php:109
+msgid "Name"
+msgstr ""
+
+#: single-event.php:115
+msgid "Phone"
+msgstr ""
+
+#: single-event.php:119
+msgid ""
+"Which\n"
+"                    service are you interested in?"
+msgstr ""
+
+#: single-event.php:135
+msgid "Send"
+msgstr ""
+
+#: single-question.php:2
+msgid "Detail question"
+msgstr ""
+
+#: single-question.php:32 pages-author/review.php:50
+#: pages-other-author/review.php:65
+msgid "Edit"
+msgstr ""
+
+#: single-question.php:33 pages-author/review.php:51
+#: pages-other-author/review.php:66
+msgid "Delete"
+msgstr ""
+
+#: single-question.php:38
+msgid "Are you sure to delete question ?"
+msgstr ""
+
+#: single-question.php:75
+msgid "liked"
+msgstr ""
+
+#: single-question.php:90
+msgid "answers"
+msgstr ""
+
+#: single-review.php:2
+msgid "Comments"
+msgstr ""
+
+#: taxonomy-type_beauty.php:32
+msgid "Rate"
+msgstr ""
+
+#: taxonomy-type_beauty.php:68 taxonomy-type_beauty.php:94
+msgid "There are no"
+msgstr ""
+
+#: pages-author/question.php:6 pages-author/review.php:7
+msgid "My posts"
+msgstr ""
+
+#: pages-author/question.php:10 pages-author/review.php:11
+#: pages-other-author/event.php:33 pages-other-author/profile.php:32
+#: pages-other-author/question.php:29 pages-other-author/review.php:29
+msgid "Question"
+msgstr ""
+
+#: pages-author/review.php:56 pages-other-author/review.php:71
+msgid "Are you sure to delete review ?"
+msgstr ""
+
+#: pages-other-author/event.php:31 pages-other-author/profile.php:30
+#: pages-other-author/question.php:27 pages-other-author/review.php:27
+msgid "Profile"
+msgstr ""
+
+#: pages-other-author/event.php:34 pages-other-author/profile.php:33
+#: pages-other-author/question.php:30 pages-other-author/review.php:30
+msgid "Event"
+msgstr ""
+
+#: pages-other-author/profile.php:40
+msgid "User name"
+msgstr ""
+
+#. Name of the theme
+msgid "opalbeauty"
+msgstr ""
+
+#. Author of the theme
+msgid "NhatHoang"
+msgstr ""
